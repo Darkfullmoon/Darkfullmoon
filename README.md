@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hey there 👋
+
+I’m Kong,Master Degree Computer Science.
+
+I’m currently learning ai infrastructure and operations
+
+My main tech stack is
+
 
 <!--
 **Darkfullmoon/Darkfullmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
