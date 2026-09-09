@@ -1,13 +1,46 @@
-## Hey there 👋
+## Hey there I’m Kunarnon👋
 
-I’m Kong,Master Degree Student Computer Science.
+#### You may call me as Kong.
 
-I’m currently learning Ai infrastructure and Operations
+### 📝 I'm currently a Master's degree student in Computer Science at TU.
 
-I’m seeking to become a AI Engineer
+### 🌱 I’m currently learning...
 
-My main tech stack is
+## Foundation
 
+- [x] Python 
+- [ ] OOP
+- [ ] Statistics and Probability.
+- [ ] Mathematics(vectors/matrices,Differential Equations Loss function)
+
+## ML fundamentals
+
+- [ ] traditional machine learning
+- [ ] LSTM
+- [ ] RNN
+- [ ] CNN
+
+## Apps
+
+- [ ] Azure Container Apps
+- [ ] Docker
+- [ ] Authentication
+- [ ] API Management
+
+## LLM fundamentals
+
+- [ ] RAG
+- [ ] AGENTS
+- [ ] MCP
+- [ ] A2A
+- [ ] GPU
+- [ ] Quantization
+
+## Data fundamentals
+
+- [ ] Data platfrom (Data lake, Data lakehouse, Data warehouse, Medallion Architecture)
+- [ ] SQL
+- [ ] Spark
 
 <!--
 **Darkfullmoon/Darkfullmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
