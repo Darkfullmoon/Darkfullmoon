@@ -1,8 +1,10 @@
 ## Hey there 👋
 
-I’m Kong,Master Degree Computer Science.
+I’m Kong,Master Degree Student Computer Science.
 
-I’m currently learning ai infrastructure and operations
+I’m currently learning Ai infrastructure and Operations
+
+I’m seeking to become a AI Engineer
 
 My main tech stack is
 
